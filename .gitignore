@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.env.local
+.env.*.local
+*.tsbuildinfo
+src/data
+.env
