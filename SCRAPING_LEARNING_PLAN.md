@@ -1,6 +1,6 @@
 # Web Scraping Learning Plan — TypeScript + Node.js
 
-## TOP 3 THINGS TO UNDERSTAND TONIGHT
+## TOP 3 THINGS TO UNDERSTAND
 
 1. **How to inspect HTML in DevTools before writing any code** — This is the single most time-saving skill. Right-click → Inspect on any element → Copy selector gives you a working selector in 2 seconds. Skipping this step is the #1 reason scrapers fail.
 
